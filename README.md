@@ -4,7 +4,7 @@ Welcome to the official support page for **Poly Bounce**.
 
 ## Support
 If you are experiencing any issues, have questions, or want to provide feedback, please contact us:
-- **Email:** [SENİN_EPOSTA_ADRESİN@gmail.com]
+- **Email:** [working.cagriozay@gmail.com]
 - **Developer:** Çağrı Özay
 
 We aim to respond to all support requests within 24-48 hours.
@@ -31,4 +31,4 @@ Poly Bounce does not knowingly collect any personal information from children un
 We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
 ### Contact Us
-If you have any questions about this Privacy Policy, please contact us at [SENİN_EPOSTA_ADRESİN@gmail.com].
+If you have any questions about this Privacy Policy, please contact us at [working.cagriozay@gmail.com].
